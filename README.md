@@ -14,6 +14,10 @@ The budget app works as a basic emulator of a budget managment tool, where a use
 
 A class Square inherits the properties from a class Rectangle, adding some methods to display key characteristics like area and perimeter, along with a couple of extra features for you to discover. This project is designed to showcase how inheritance work in python/oop.
 
+### Hash table
+
+Build a hash table from scratch. Create a hash to store key-value pairs via a class with methods to add, delete, and lookup for these k-v pairs. 
+
 ## Lab work
 
 Some other smaller projects available as part of this repo:
@@ -23,3 +27,6 @@ Some other smaller projects available as part of this repo:
 3. game stats tracker - Getter/Setter in action in a player setup application.
 4. player - implementation of a board game player with abstract classes.
 5. bisection - implementation of the bisection algorythm to find the square root of a number.
+6. quick sort - Quick sort algorithm.
+7. selection sort - Selection sort algorithm.
+8. credit card validator - Simple algorithm to validate the number on a credit card.
